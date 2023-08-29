@@ -1,0 +1,213 @@
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/appsettings.Development.json
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/appsettings.json
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.deps.json
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.runtimeconfig.json
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.runtimeconfig.dev.json
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.Views.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Eval.Views.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/Dapper.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.csproj.AssemblyReference.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.AssemblyInfoInputs.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.AssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.csproj.CoreCompileInputs.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.MvcApplicationPartsAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.RazorAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.RazorAssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/scopedcss/bundle/Eval.styles.css
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/staticwebassets/Eval.StaticWebAssets.Manifest.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.TagHelpers.input.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.TagHelpers.output.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.RazorCoreGenerate.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Alumnos.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Clientes.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Docentes.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Empleados.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Escuelas.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/Sucursales.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleAlumno.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleCliente.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleDocente.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleEmpleado.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleEscuela.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/VerDetalleSucursal.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.RazorTargetAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.RazorTargetAssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.Views.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.csproj.CopyComplete
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/refint/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Eval.genruntimeconfig.cache
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/ref/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearEscuela.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearDocente.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearAlumno.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearEmpleado.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearSucursal.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4/obj/Debug/net5.0/Razor/Views/Home/CrearCliente.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/appsettings.Development.json
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/appsettings.json
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.deps.json
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.runtimeconfig.json
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.runtimeconfig.dev.json
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.Views.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Eval.Views.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/Dapper.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.csproj.AssemblyReference.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.AssemblyInfoInputs.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.AssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.csproj.CoreCompileInputs.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.MvcApplicationPartsAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.RazorAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.RazorAssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/scopedcss/bundle/Eval.styles.css
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/staticwebassets/Eval.StaticWebAssets.Manifest.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.TagHelpers.input.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.TagHelpers.output.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.RazorCoreGenerate.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Home/CrearEmpleado.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Home/Empleados.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Home/VerDetalleEmpleado.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.RazorTargetAssemblyInfo.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.RazorTargetAssemblyInfo.cs
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.Views.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.csproj.CopyComplete
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/refint/Eval.dll
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.pdb
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/Eval.genruntimeconfig.cache
+/Users/ezequielbinker/Downloads/EvalPRG4-Empresa-Tema1/obj/Debug/net5.0/ref/Eval.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\appsettings.Development.json
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\appsettings.json
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.exe
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.deps.json
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.runtimeconfig.json
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.runtimeconfig.dev.json
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.pdb
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.Views.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Eval.Views.pdb
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\Dapper.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.csproj.AssemblyReference.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.AssemblyInfoInputs.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.AssemblyInfo.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.csproj.CoreCompileInputs.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.MvcApplicationPartsAssemblyInfo.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.RazorAssemblyInfo.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.RazorAssemblyInfo.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\scopedcss\bundle\Eval.styles.css
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\Eval.StaticWebAssets.Manifest.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\Eval.StaticWebAssets.Pack.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\msbuild.Eval.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\msbuild.build.Eval.props
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Eval.props
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Eval.props
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.TagHelpers.input.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.TagHelpers.output.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.RazorCoreGenerate.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Home\CrearEmpleado.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Home\Empleados.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Home\VerDetalleEmpleado.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.RazorTargetAssemblyInfo.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.RazorTargetAssemblyInfo.cs
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.Views.pdb
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.csproj.CopyComplete
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\refint\Eval.dll
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.pdb
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\Eval.genruntimeconfig.cache
+C:\Leo\ORT\2023\Evaluaciones\4B\EvalPRG4-Empresa-Tema1\obj\Debug\net5.0\ref\Eval.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.csproj.AssemblyReference.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.AssemblyInfoInputs.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.AssemblyInfo.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.csproj.CoreCompileInputs.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.RazorAssemblyInfo.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.RazorAssemblyInfo.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\refint\Eval.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.pdb
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\appsettings.json
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.exe
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.deps.json
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.runtimeconfig.json
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.runtimeconfig.dev.json
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.pdb
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.Views.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Eval.Views.pdb
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\Dapper.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\scopedcss\bundle\Eval.styles.css
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\Eval.StaticWebAssets.Manifest.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\Eval.StaticWebAssets.Pack.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\msbuild.Eval.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\msbuild.build.Eval.props
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Eval.props
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Eval.props
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.TagHelpers.input.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.TagHelpers.output.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.RazorCoreGenerate.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Home\CrearEmpleado.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Home\Empleados.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Home\VerDetalleEmpleado.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.RazorTargetAssemblyInfo.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.RazorTargetAssemblyInfo.cs
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.Views.pdb
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.csproj.CopyComplete
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\Eval.genruntimeconfig.cache
+C:\Users\47574606\Downloads\EvalPRG4-Empresa-Alumnos-Tema1\EvalPRG4-Empresa-Tema1 - Alumnos\obj\Debug\net5.0\ref\Eval.dll
